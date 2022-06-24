@@ -1,1 +1,3 @@
-Change 1
+This is Justin X. Hale from Red Hat.
+I am learning how to use git.
+Hopefully this will help me in creating better user experiences!
